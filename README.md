@@ -1,1 +1,1 @@
-# Transparent-Login-Form![Alt text](Result.jpg)
+# Transparent-Login-Form
